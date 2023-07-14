@@ -22,7 +22,7 @@
 
 ### JF 4.1 - 4.8: Manage and deploy applications and programs, conduct testing, and adhere to industry security standards.
 
-- I have built applications adhering to industry security standards and ensuring protection of personal data. An example can be found here in this project: [Project-1] (https://github.com/jlaws710/Project-1) and [Project-2] (https://github.com/jlaws710/Project-2).
+- I have built applications adhering to industry security standards and ensuring protection of personal data. An example can be found here in this project: [Project-1](https://github.com/jlaws710/Project-1) and [Project-2](https://github.com/jlaws710/Project-2).
 
 ### JF 5.1 - 5.6 Apply structured problem solving techniques and logical thinking to solve problems and use creativity and resourcefulness to create solutions to obstaces. 
 
