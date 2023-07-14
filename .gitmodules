@@ -1,0 +1,12 @@
+[submodule "personal-projects/inventory_app_project_v2_mysql"]
+	path = personal-projects/inventory_app_project_v2_mysql
+	url = https://github.com/Federal-Bureau-of-Iteration/inventory_app_project_v2_mysql.git
+[submodule "personal-projects/Spring-Boot-Final-Project"]
+	path = personal-projects/Spring-Boot-Final-Project
+	url = https://github.com/jlaws710/Spring-Boot-Final-Project.git
+[submodule "personal-projects/Project-1"]
+	path = personal-projects/Project-1
+	url = https://github.com/jlaws710/Project-1.git
+[submodule "personal-projects/Project-2"]
+	path = personal-projects/Project-2
+	url = https://github.com/jlaws710/Project-2.git
