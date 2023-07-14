@@ -14,7 +14,7 @@
 
 ### JF 2.1 - 2.8: Take a business or user problem, gather data to analyze the problem, and use prototyping tools to create a high fidelity wirefram and UI framework, test the application, and use agile project management. 
 
-- I have used agile development with other members of my apprenticeship team to plan, design, and build a responsive User Interface. An example of this can be found here in this project: [Inventory-App] (https://github.com/Federal-Bureau-of-Iteration/inventory_app_project_v2_mysql). Another example can be found here in this project: [Spring-Boot-Final-Project] (https://github.com/jlaws710/Spring-Boot-Final-Project).
+- I have used agile development with other members of my apprenticeship team to plan, design, and build a responsive User Interface. An example of this can be found here in this project: [Inventory-App](https://github.com/Federal-Bureau-of-Iteration/inventory_app_project_v2_mysql). Another example can be found here in this project: [Spring-Boot-Final-Project](https://github.com/jlaws710/Spring-Boot-Final-Project).
 
 ### JF 3.1 - 3.8: Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs.
 
