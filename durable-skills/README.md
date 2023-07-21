@@ -1,11 +1,5 @@
 # Durable Skills
 
-## Overview
-
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
-
 ## Competencies
 ### JF 1.1 - JF 1.7: Explain and implement the process of building and deploying software across the Software Development Life Cycle and Project Life Cycle and describe how their role contributes to their team and organization.
 
@@ -18,18 +12,16 @@
 
 ### JF 3.1 - 3.8: Apply the process of server-side development, including explaining algorithms, logic and data structures, can develop and maintain databases and codebases, and explain and implement APIs.
 
-- I have implemented RESTful API, algorithms, and databases using Spring as my framework, and cassandra as my database. An example of this can be found here in this project: [Project-1](https://github.com/jlaws710/Project-1)  and [Project-2](https://github.com/jlaws710/Project-2).
+- I have implemented RESTful API, algorithms, and databases using Spring as my framework, and cassandra as my database. During my time with AMEX, I have contributed to the creation of an app that monitors the health of Cassandra database. It was created using a combination of RESTful API, algorithms, and Cassandra database. Also, I have built personal projects that demonstrates the process of server-side development. An example of this can be found here in these projects: [Project-1](https://github.com/jlaws710/Project-1) and [Project-2](https://github.com/jlaws710/Project-2).
 
 ### JF 4.1 - 4.8: Manage and deploy applications and programs, conduct testing, and adhere to industry security standards.
 
-- I have built applications adhering to industry security standards and ensuring protection of personal data. An example can be found here in this project: [Project-1](https://github.com/jlaws710/Project-1) and [Project-2](https://github.com/jlaws710/Project-2).
+- I have built applications adhering to industry security standards and ensuring protection of personal data. An example can be found here in these projects: [Project-1](https://github.com/jlaws710/Project-1) and [Project-2](https://github.com/jlaws710/Project-2).
 
-### JF 5.1 - 5.6 Apply structured problem solving techniques and logical thinking to solve problems and use creativity and resourcefulness to create solutions to obstaces. 
+### JF 5.1 - 5.6: Apply structured problem solving techniques and logical thinking to solve problems and use creativity and resourcefulness to create solutions to obstaces. 
 
+- For one of my job duties, I was tasked with resolving gRPC response timeout for an application. Typically, the applications are run using the company's environment setup, which takes a long period of time to setup. To avoid the long setup, I ran the applications locally on kubernetes. By running the applications on Kubernetes, I was able to diagnose and resolve the issue.
 
-### JF XX.XX
-- List the full text of the job function first
-- Describe a situation where you demonstrated  this job function.
-- Summarize the actions you took to accomplish the goal. 
-- Emphasize the results of this action for your team or your learning. 
-- Connect the competentcy to this project
+### JF 6.1 - 6.7: Demonstrates key professional skills, including using strong communication skills, working collaboratively, and taking initiative to learn and develop professionally.
+
+- During the creation of an app that monitors Cassandra database, I took the lead in designing and building the app. I worked collaboratively with my team members, orgainzing meetings to discuss our progress, and working together to resolve any issues. A personal project that I worked collaboratively with a team can be found here: [Inventory-App](https://github.com/Federal-Bureau-of-Iteration/inventory_app_project_v2_mysql).
